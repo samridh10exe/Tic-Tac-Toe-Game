@@ -1,4 +1,4 @@
-Explanation:
+#Explanation:
 
 1. We first declare a 2-dimensional char array "board" to represent the Tic Tac Toe board and a char variable "currentPlayer" to keep track of the player's turn.
 2. In the "initializeBoard()" method, we initialize the board to contain dashes.
